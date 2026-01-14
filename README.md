@@ -38,7 +38,7 @@ and business intelligence environments.
   - `fact_posts`
   - `user_post_summary`
     
-## 🛠 Tools & Technologies (Conceptual)
+## 🛠 Tools & Technologies
 - **Python** → ETL logic implementation
 - **REST APIs** → Data source
 - **Pandas** → Data transformation
