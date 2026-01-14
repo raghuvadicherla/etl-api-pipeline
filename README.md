@@ -8,8 +8,6 @@ tables, and loads the processed data into a relational database for reporting an
 This project simulates a real-world data engineering workflow commonly used in analytics
 and business intelligence environments.
 
----
-
 ## 🛠 Tech Stack
 - Python
 - Pandas
@@ -17,8 +15,6 @@ and business intelligence environments.
 - SQLite
 - SQL
 - Git & GitHub
-
----
 
 ## 🔄 ETL Workflow
 
@@ -41,7 +37,17 @@ and business intelligence environments.
   - `dim_users`
   - `fact_posts`
   - `user_post_summary`
+    
+## 🛠 Tools & Technologies (Conceptual)
+- **Python** → ETL logic implementation
+- **REST APIs** → Data source
+- **Pandas** → Data transformation
+- **SQLite** → Relational storage
+- **GitHub** → Version control and collaboration
 
----
-
-## 📂 Project Structure
+## 🎯 Key Learning Outcomes
+- Understanding end-to-end ETL workflows
+- Designing scalable ETL architectures
+- Working with API-based data sources
+- Preparing data for analytics and reporting
+- Applying data engineering best practices
